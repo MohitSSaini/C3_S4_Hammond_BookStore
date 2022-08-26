@@ -1,4 +1,7 @@
 // Attributes
-
+1.ISBN Number
+2.Title
+3.Description
+4.Price
 
 // Behaviour
