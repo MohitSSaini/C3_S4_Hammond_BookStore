@@ -9,5 +9,11 @@ public class Author {
     String authorName;
     String authorPenName;
     
+    public Author ( ) {
+    }
     
+    public Author ( String authorName , String authorPenName ) {
+        this.authorName = authorName;
+        this.authorPenName = authorPenName;
+    }
 }
