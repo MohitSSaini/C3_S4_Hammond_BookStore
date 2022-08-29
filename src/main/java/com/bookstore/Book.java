@@ -6,4 +6,10 @@
 package com.bookstore;
 
 public class Book {
+    String ISBNNumber;
+    String Title;
+    String Description;
+    double Price;
+    
+    
 }
