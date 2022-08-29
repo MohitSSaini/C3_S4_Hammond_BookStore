@@ -6,8 +6,8 @@
 package com.bookstore;
 
 public class Author {
-    String authorName;
-    String authorPenName;
+    private String authorName;
+    private String authorPenName;
     
     public Author ( ) {
     }

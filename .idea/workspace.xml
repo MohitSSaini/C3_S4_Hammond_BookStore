@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe3b7127-b76b-461c-b82b-cb4c562bb3ac" name="Changes" comment="create a bookImpl class in BookImpl.java class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fe3b7127-b76b-461c-b82b-cb4c562bb3ac" name="Changes" comment="Create a method and define in Book.java class">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/Author.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/BookImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/BookImpl.java" afterDir="false" />
@@ -173,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661788909055</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Create a method and define in Book.java class">
+      <created>1661800506894</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661800506894</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +208,8 @@
     <MESSAGE value="Crate a Getter and setter method  in Author.java class" />
     <MESSAGE value="crate a implement of toString method in Author.java class" />
     <MESSAGE value="create a bookImpl class in BookImpl.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a bookImpl class in BookImpl.java class" />
+    <MESSAGE value="Create a method and define in Book.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a method and define in Book.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
