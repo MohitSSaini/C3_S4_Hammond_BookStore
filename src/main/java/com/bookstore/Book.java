@@ -6,26 +6,33 @@
 package com.bookstore;
 
 public class Book {
-    String ISBNNumber;
+    long ISBNNumber;
     String Title;
     String Description;
     double Price;
     
+    private Author author;
+    
     public Book ( ) {
     }
     
-    public Book ( String ISBNNumber , String title , String description , double price ) {
+    public Book ( long ISBNNumber ,
+                  String title ,
+                  String description ,
+                  double price ,
+                  Author author ) {
         this.ISBNNumber = ISBNNumber;
         Title = title;
         Description = description;
         Price = price;
+        this.author = author;
     }
     
-    public String getISBNNumber ( ) {
+    public long getISBNNumber ( ) {
         return ISBNNumber;
     }
     
-    public void setISBNNumber ( String ISBNNumber ) {
+    public void setISBNNumber ( long ISBNNumber ) {
         this.ISBNNumber = ISBNNumber;
     }
     
@@ -51,5 +58,24 @@ public class Book {
     
     public void setPrice ( double price ) {
         Price = price;
+    }
+    
+    public Author getAuthor ( ) {
+        return author;
+    }
+    
+    public void setAuthor ( Author author ) {
+        this.author = author;
+    }
+    
+    public void displayBookDetail ( ) {
+        System.out.println ( "ISBNNumber = " + ISBNNumber );
+        System.out.println ( " Title = " + Title );
+        System.out.println ( "Description = " + Description );
+        System.out.println ( "Price = " + Price );
+        System.out.println ( "Author = " + getAuthor ( ) );
+        System.out.println ( "author.getAuthorName () = " + author.getAuthorName ( ) );
+        System.out.println ( "author.getAuthorPenName () = " + author.getAuthorPenName ( ) );
+        
     }
 }
