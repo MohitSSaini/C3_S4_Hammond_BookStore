@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe3b7127-b76b-461c-b82b-cb4c562bb3ac" name="Changes" comment="crate a implement of toString method in Author.java class">
+    <list default="true" id="fe3b7127-b76b-461c-b82b-cb4c562bb3ac" name="Changes" comment="create a bookImpl class in BookImpl.java class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/Author.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/book.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/BookImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/BookImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +40,32 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/IdeaProjects/C3_S4_Hammond_BookStore&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="BookImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bookstore.BookImpl" />
+      <module name="C3_S4_Hammond_BookStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bookstore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookImpl" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -144,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661757725485</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="create a bookImpl class in BookImpl.java class">
+      <created>1661788909055</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661788909055</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +201,8 @@
     <MESSAGE value="Crate a Getter and setter method  in Book.java class" />
     <MESSAGE value="Crate a Getter and setter method  in Author.java class" />
     <MESSAGE value="crate a implement of toString method in Author.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="crate a implement of toString method in Author.java class" />
+    <MESSAGE value="create a bookImpl class in BookImpl.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a bookImpl class in BookImpl.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
