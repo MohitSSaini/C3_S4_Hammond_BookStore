@@ -20,4 +20,36 @@ public class Book {
         Description = description;
         Price = price;
     }
+    
+    public String getISBNNumber ( ) {
+        return ISBNNumber;
+    }
+    
+    public void setISBNNumber ( String ISBNNumber ) {
+        this.ISBNNumber = ISBNNumber;
+    }
+    
+    public String getTitle ( ) {
+        return Title;
+    }
+    
+    public void setTitle ( String title ) {
+        Title = title;
+    }
+    
+    public String getDescription ( ) {
+        return Description;
+    }
+    
+    public void setDescription ( String description ) {
+        Description = description;
+    }
+    
+    public double getPrice ( ) {
+        return Price;
+    }
+    
+    public void setPrice ( double price ) {
+        Price = price;
+    }
 }
