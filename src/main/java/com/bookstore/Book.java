@@ -75,6 +75,5 @@ public class Book {
         System.out.println ( "Author = " + getAuthor ( ) );
         System.out.println ( "Author Name = " + author.getAuthorName ( ) );
         System.out.println ( "AuthorPenName = " + author.getAuthorPenName ( ) );
-    
     }
 }

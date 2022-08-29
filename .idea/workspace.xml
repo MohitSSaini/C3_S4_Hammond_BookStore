@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe3b7127-b76b-461c-b82b-cb4c562bb3ac" name="Changes" comment="Create a method and define in Book.java class">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/BookImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/BookImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="fe3b7127-b76b-461c-b82b-cb4c562bb3ac" name="Changes" comment="define all method in BookImpl.java class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +175,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661800506894</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="define a method in toString  Book.java class">
+      <created>1661800638582</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661800638583</updated>
+    </task>
+    <task id="LOCAL-00017" summary="define a method in toString  Author.java class">
+      <created>1661800664886</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661800664886</updated>
+    </task>
+    <task id="LOCAL-00018" summary="define all method in BookImpl.java class">
+      <created>1661800706135</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661800706135</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,7 +226,10 @@
     <MESSAGE value="crate a implement of toString method in Author.java class" />
     <MESSAGE value="create a bookImpl class in BookImpl.java class" />
     <MESSAGE value="Create a method and define in Book.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a method and define in Book.java class" />
+    <MESSAGE value="define a method in toString  Book.java class" />
+    <MESSAGE value="define a method in toString  Author.java class" />
+    <MESSAGE value="define all method in BookImpl.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="define all method in BookImpl.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
