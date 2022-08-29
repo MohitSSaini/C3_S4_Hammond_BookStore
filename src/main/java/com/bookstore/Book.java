@@ -11,5 +11,13 @@ public class Book {
     String Description;
     double Price;
     
+    public Book ( ) {
+    }
     
+    public Book ( String ISBNNumber , String title , String description , double price ) {
+        this.ISBNNumber = ISBNNumber;
+        Title = title;
+        Description = description;
+        Price = price;
+    }
 }
