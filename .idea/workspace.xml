@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe3b7127-b76b-461c-b82b-cb4c562bb3ac" name="Changes" comment="Crate a constructor in Book.java class">
+    <list default="true" id="fe3b7127-b76b-461c-b82b-cb4c562bb3ac" name="Changes" comment="Crate a Getter and setter method  in Author.java class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/Author.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661756849512</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Crate a Getter and setter method  in Book.java class">
+      <created>1661757027212</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661757027212</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Crate a Getter and setter method  in Author.java class">
+      <created>1661757066561</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661757066561</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +162,9 @@
     <MESSAGE value="Define variable in Author.java class" />
     <MESSAGE value="Crate a constructor in Author.java class" />
     <MESSAGE value="Crate a constructor in Book.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Crate a constructor in Book.java class" />
+    <MESSAGE value="Crate a Getter and setter method  in Book.java class" />
+    <MESSAGE value="Crate a Getter and setter method  in Author.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crate a Getter and setter method  in Author.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
